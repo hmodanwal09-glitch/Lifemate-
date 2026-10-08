@@ -1,0 +1,6 @@
+{
+  "name": "LifeMate",
+  "description": "All-in-one family assistant combining tasks, notes, reminders, calendar, expenses, family coordination, and AI across Child, Adult, and Senior modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
